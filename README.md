@@ -4,6 +4,8 @@
 
 [![reddit](https://github.com/shigeyukey/AnkiRestart/assets/124401518/85368aad-6f50-4335-8858-7a30a66fb065)](https://www.reddit.com/user/Shige-yuki)
 
+#####   [ [ Github Issues ] ](https://github.com/shigeyukey/Anki-Terminator-/issues)
+
 AI sidebar for reviews. <br>
 Just login to use ChatGPT, GoogleBard, and Bing Chat for free and easy.<br>
 (No OpenAI API required).<br>
