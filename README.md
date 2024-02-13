@@ -50,8 +50,59 @@ Clicking on it will open the AI sidebar.<br>
 
 ## Sidebar
 
-![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/4a6aa260-407f-412e-82c9-3df052ecef71)
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/4a6aa260-407f-412e-82c9-3df052ecef71)<br>
 
+## Options
+
+### 1.Always tab
+
+*  AI : ChatGPT, GoogleBard, BingChat
+*  Translate : The default prompt is English, so non-native English speakers cannot use it,
+   but you can request translation to ChatGPT using prompts.
+   The "{}" is auto-replaced with the language used by Anki.
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/cacdeb42-663f-4724-8bd5-94a67daf17df)<br>
+
+### 2.Prompts tab
+
+You can customize the name of each prompt and button.<br>
+{} will be replaced by field text.<br>
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/49657f12-7dd0-421b-84d1-bd8715f82dc2)<br>
+
+
+### 3.Tags tab
+
+If you use a special tag, you can tell ChatGPT that you are studying that tag.<br>
+{} will be replaced by tag.<br>
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/8f0b6011-91eb-493d-88e9-28a82c71e7f6)<br>
+
+### 4.Priority Fields tab
+
+This add-on grabs the text to be used in the prompt from the first field.<br>
+You can specify which fields are to be prioritized.<br>
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/237ea7b3-fc17-4988-bf13-c0dc65f48bed)<br>
+
+### 4. Exclude tab
+
+Does not grab the text from the field by the specified note type.<br>
+For example, image occlusion cannot be used because there is no text.<br>
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/9185a136-08b9-4a85-812c-f39fe98bc1f8)<br>
+
+### 5. Other tab
+
+* Sidebar
+* AutoPrompt
+ * auto input : Automatically prompts when card answer is shown.
+ * auto send : Automatically sends prompts when card answer is shown.
+* Shortcut Keys
+  * Send pronpts : The prompts you enter can be send using shortcut keys.
+  * Open Sidebar
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/9952f1b2-b95a-4809-ac4b-50a28cf1b0a2)
 
 
 
