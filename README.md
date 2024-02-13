@@ -38,9 +38,23 @@ I have not yet developed the function to use the API.<br>
     * 30 chats per session and 300 chats per day, but GPT-4 is free.
 <br>
 
- #### [ How to Use ]
+ ## [ How to Use ]
 
-I'm about to write it, please wait a bit.<br>
+
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/29e4db70-2b95-4613-84b7-f4261d49cc92)<br>
+
+When the add-on is installed, the ChatGPT icon will be added to the right side of the top toolbar.<br>
+Clicking on it will open the AI sidebar.<br>
+
+
+## Sidebar
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/4a6aa260-407f-412e-82c9-3df052ecef71)
+
+
+
+
 
 
 #### [ ▲ Known Issues ]
