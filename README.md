@@ -41,7 +41,6 @@ I have not yet developed the function to use the API.<br>
  ## [ How to Use ]
 
 
-
 ![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/29e4db70-2b95-4613-84b7-f4261d49cc92)<br>
 
 When the add-on is installed, the ChatGPT icon will be added to the right side of the top toolbar.<br>
@@ -50,6 +49,15 @@ Clicking on it will open the AI sidebar.<br>
 
 ## Sidebar
 
+* Change AI : Click to change the AI.
+* AutoSendPronpt : Automatically sends prompts when card answer is shown and when Pronpts button is pressed.
+* Field Name : The text of the field used in prompts is automatically inputted.
+ * Right click : You can enter text in this box by right-clicking.
+ * Select text in Anki -> Right click -> Chat GPT
+* Pronpts Buttons : Input prompts into ChatGPT.
+* Option : Open the Options dialog.
+
+
 ![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/4a6aa260-407f-412e-82c9-3df052ecef71)<br>
 
 ## Options
@@ -57,9 +65,9 @@ Clicking on it will open the AI sidebar.<br>
 ### 1.Always tab
 
 *  AI : ChatGPT, GoogleBard, BingChat
-*  Translate : The default prompt is English, so non-native English speakers cannot use it,
-   but you can request translation to ChatGPT using prompts.
-   The "{}" is auto-replaced with the language used by Anki.
+*  Translate : The default prompt is English, so non-native English speakers cannot use it,<br>
+   but you can request translation to ChatGPT using prompts.<br>
+   The "{}" is auto-replaced with the language used by Anki.<br>
 
 ![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/cacdeb42-663f-4724-8bd5-94a67daf17df)<br>
 
@@ -105,13 +113,14 @@ For example, image occlusion cannot be used because there is no text.<br>
 ![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/9952f1b2-b95a-4809-ac4b-50a28cf1b0a2)
 
 
+### 
 
 
 
 #### [ ▲ Known Issues ]
 * Auto-Prompt does not work in Bing Chat.
 * Mac Anki23.12.1 cannot open Bird and Bing, but Mac23.12 can. <br>
-This problem is a Qt issue, so perhaps the latest Anki update will fix it when Qt is updated. 
+This problem is a Qt issue, so perhaps the latest Anki update will fix it when Qt is updated. <br>
 * Menu items not neat and tidy.
 * Translated texts in the options are choppy.
 * Translated texts in the options are incorrect.
@@ -119,7 +128,17 @@ This problem is a Qt issue, so perhaps the latest Anki update will fix it when Q
 
 #### [ Others ]
 
+The ultimate goal of this add-on is to create a talking Anki mascot character.<br>
+(This feature does not exist yet, because it is still in the idea stage.)<br>
+Text and animation have been created.<br>
+* Anki Terminator AI-Core(ChatGPT)
+* Anki Terminator SR-800(AnkiArcade theme)
+
+![image](https://github.com/shigeyukey/Anki-Terminator-/assets/124401518/676d6880-f396-4994-bd3b-1436b851c1d6)
+
+
+
 [![Patreon_banner_3_mini](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/7f700af6-90f0-4a05-b0fe-c3a4524c2c8d)](http://patreon.com/Shigeyuki)  <br>
-I develop game add-ons for Anki, simple fixes and customs for broken add-ons for the latest Anki(I am not related to the official Anki). If you want to support my development, you can get prototype game add-ons by becoming a Patreon. And if you become a free patreon, you can get the latest info, so please check it out👍 **[ Patreon : Shigeyuki ](https://www.patreon.com/Shigeyuki)**  : Currently there are 8 content, and 9 mini game themes(AnkiArcade). <br>
+I develop game add-ons for Anki, simple fixes and customs for broken add-ons for the latest Anki(I am not related to the official Anki). If you want to support my development, you can get prototype game add-ons by becoming a Patreon. And if you become a free patreon, you can get the latest info, so please check it out👍 **[ Patreon : Shigeyuki ](https://www.patreon.com/Shigeyuki)**  : Currently there are 8 content, and 10 mini game themes(AnkiArcade). <br>
 * Here are free add-ons I developed available on AnkiWeb ➔ **[ [Items shared by Shigeyuki](https://ankiweb.net/shared/by-author/1428126516) ]**<br>
 * If you like this add-on, please upvote it. ➔ **[[  Rate This ](https://ankiweb.net/shared/review/1428126516) ]**
