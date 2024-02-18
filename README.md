@@ -144,3 +144,5 @@ Text and animation have been created.<br>
 I develop game add-ons for Anki, simple fixes and customs for broken add-ons for the latest Anki(I am not related to the official Anki). If you want to support my development, you can get prototype game add-ons by becoming a Patreon. And if you become a free patreon, you can get the latest info, so please check it out👍 **[ Patreon : Shigeyuki ](https://www.patreon.com/Shigeyuki)**  : Currently there are 8 content, and 10 mini game themes(AnkiArcade). <br>
 * Here are free add-ons I developed available on AnkiWeb ➔ **[ [Items shared by Shigeyuki](https://ankiweb.net/shared/by-author/1428126516) ]**<br>
 * If you like this add-on, please upvote it. ➔ **[[  Rate This ](https://ankiweb.net/shared/review/1428126516) ]**
+
+
